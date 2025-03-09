@@ -1,0 +1,96 @@
+body{
+    background-color: #fcdfce;
+
+}
+
+
+*{
+
+    padding: 0;
+    margin-top: 0;
+    
+}
+
+
+h1{
+    font-size: 50px;
+    text-align: center;
+
+
+}
+
+
+header{
+    background-color: #fec89a;
+    height: 50px;
+}
+
+#github-logo{
+    border-top: 0px;
+    border-left: 500px;
+    height: 50px;
+    width:50px;
+    border-radius:50%
+
+}
+
+
+#linkedin{
+    border-right:0px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+
+}
+
+
+#intro{
+    
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-width: 0.5px;
+    border-style: groove;
+    background-color: #ffb5a7;
+    border-radius: 25%;
+    height: 200px;
+    width: 400px;
+
+}
+
+DIV{
+    font-family: 'Times New Roman', Times, serif;
+    border-width: 0.5px;
+    border-style: groove;
+    background-color: #ffb5a7;
+    border-radius: 25%;
+    height: 130px;
+    width: 200px;
+    
+    
+}
+
+table{
+    border-width: 0.5px;
+    border-style: groove;
+    background-color: #ffb5a7;
+    border-radius: 25%;
+    height: 160px;
+    width: 200px
+
+} 
+
+footer{
+    background-color: #fec89a;
+   bottom: 0px;
+
+}
+
+#mail-id{
+    margin-left: 300px;
+}
+
+#contact{
+    border-top: 0%;
+    margin-left:800px;
+}
+
